@@ -1,6 +1,6 @@
 # RtxonInfo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.8 by running `ng new rtxon-info`.
 
 ## Development server
 
